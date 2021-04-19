@@ -1,0 +1,6 @@
+﻿namespace WcfService
+{
+    interface IThrowRoslynOffTrack
+    {
+    }
+}
